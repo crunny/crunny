@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="center">My name is crunny and I'm a self taught cyber fella from the UK  💂</h2>
+<h2 align="center">my name is crunny and I'm a self taught cyber fella from the UK  💂</h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="center">About me</h2>
+<h2 align="center">about me</h2>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h2 align="center">I create with</h2>
+<h2 align="center">things I use</h2>
 
 ###
 
