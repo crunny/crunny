@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="center">my name is crunny and I'm a self taught cyber fella from the UK  💂</h2>
+<h2 align="center">my name is crunny and I'm a computer science student from the UK  💂</h2>
 
 ###
 
@@ -34,8 +34,6 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
