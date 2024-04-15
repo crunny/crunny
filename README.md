@@ -22,7 +22,7 @@
 
 ###
 
-<p align="center">✨ creating stupid shit<br>📚 currently learning JS<br>🎯 trying to make something that is actually useful</p>
+<p align="center">✨ creating stupid shit<br>📚 currently learning JS<br>🎯 make something that is actually useful</p>
 
 ###
 
