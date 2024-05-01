@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="center">my name is crunny and I'm a computer science student from the UK  💂</h2>
+<h2 align="center">I'm a computer science student from the UK  💂</h2>
 
 ###
 
