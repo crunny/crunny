@@ -18,14 +18,6 @@
 
 ###
 
-<h2 align="center">about me</h2>
-
-###
-
-<p align="center">✨ creating stupid shit<br>📚 currently learning JS<br>🎯 make something that is actually useful</p>
-
-###
-
 <h2 align="center">things I use</h2>
 
 ###
