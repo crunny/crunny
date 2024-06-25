@@ -1,18 +1,4 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co/ngBQqKb/standard.gif"  />
-</div>
-
-###
-
-<h1 align="center">welcome to my github</h1>
-
-###
-
-<h2 align="center">I'm a computer science student from the UK  💂</h2>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=crunny.crunny&left_color=black&right_color=firebrick"  />
 </div>
 
